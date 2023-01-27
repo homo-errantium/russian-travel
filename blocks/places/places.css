@@ -1,6 +1,5 @@
-.lead {
+.places {
     display: flex;
     flex-direction: column;
-    margin: 0 auto;
     margin-bottom: 92px;
 }

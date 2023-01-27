@@ -1,0 +1,14 @@
+.cover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(../../images/background_Baikal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1184px;
+    max-height: 740px;
+    height: 100vh;
+    background-size: cover;
+    margin: 0 auto;
+    margin-bottom: 92px;
+}
