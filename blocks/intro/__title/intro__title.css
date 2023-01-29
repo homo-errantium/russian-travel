@@ -1,9 +1,9 @@
 .intro__title {
-    margin: 0;
     width: 690px;
     font-size: 54px;
     font-weight: 900;
     line-height: 58px;
     text-align: left;
-    margin-bottom: 40px;
+    margin:0 0 40px;
+    text-rendering: optimizeLegibility;
 }

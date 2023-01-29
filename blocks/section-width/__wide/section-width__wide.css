@@ -1,3 +1,9 @@
 .section-width__wide {
     max-width: 1184px;
 }
+
+@media screen and (max-width: 1279px) {
+    .section-width__wide{
+        max-width: 928px;
+    }
+}

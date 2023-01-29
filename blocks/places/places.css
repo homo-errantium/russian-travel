@@ -1,5 +1,6 @@
 .places {
     display: flex;
     flex-direction: column;
+    row-gap: 80px;
     margin-bottom: 92px;
 }
