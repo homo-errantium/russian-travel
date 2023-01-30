@@ -1,17 +1,33 @@
 .cover__link {
-    max-width: 560px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 740px; 
+    width: 100%;
     margin: 0 auto 32px;
     text-decoration: none;
     text-align: center;
     color: inherit;
 }
 
+@media screen and (max-width: 1279px) {
+    .cover__link{
+        display: block;
+        height: 100%; 
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__link{
+        display: block;
+        height: 100%; 
+    }
+}
+
 @media screen and (max-width: 767px) {
     .cover__link{
-        max-width: 288px;
-        margin: 0 auto;
-        text-decoration: none;
-        text-align: center;
-        color: inherit;
+        display: block;
+        height: 100%; 
     }
 }

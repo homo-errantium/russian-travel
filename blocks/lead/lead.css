@@ -8,6 +8,7 @@
     .lead {
         min-height: 480px;
         margin-bottom: 88px;
+        max-width: 768px;
     }   
 }
 
@@ -15,5 +16,6 @@
     .lead {
         min-height: 406px;
         margin-bottom: 64px;
+        max-width: 320px;
     }   
 }
