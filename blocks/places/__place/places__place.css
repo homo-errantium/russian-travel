@@ -15,3 +15,13 @@
         
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .places__place {
+        grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
+        grid-column-gap: 28px;
+        grid-template-rows: repeat(2, auto);
+        grid-row-gap: 48px;
+        
+    }
+}

@@ -5,9 +5,8 @@
     background-image: url(../../images/background_Baikal.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 1184px;
-    max-height: 740px;
-    height: 100vh;
+    width: 100%;
+    min-height: 740px;
     background-size: cover;
     margin-bottom: 92px;
     position: relative;
@@ -29,4 +28,20 @@
 .cover:hover::before{
     transition: 0.4s;
     opacity: 0.8;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover{
+        max-width: 1024px;
+        min-height: 640px;
+    }
+    
+}
+
+@media screen and (max-width: 1023px) {
+    .cover{
+        max-width: 768px;
+        min-height: 480px;
+    }
+    
 }

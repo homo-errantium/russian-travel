@@ -7,3 +7,9 @@
         max-width: 928px;
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .section-width__wide{
+        max-width: 720px;
+    }
+}
