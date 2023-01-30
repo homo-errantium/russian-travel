@@ -5,3 +5,13 @@
     text-align: center;
     color: inherit;
 }
+
+@media screen and (max-width: 767px) {
+    .cover__link{
+        max-width: 288px;
+        margin: 0 auto;
+        text-decoration: none;
+        text-align: center;
+        color: inherit;
+    }
+}

@@ -45,3 +45,12 @@
     }
     
 }
+
+@media screen and (max-width: 767px) {
+    .cover{
+        max-width: 100%;
+        min-height: 200px;
+        margin-bottom: 64px;
+    }
+    
+}

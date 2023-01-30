@@ -8,3 +8,9 @@
     }
     
 }
+
+@media screen and (max-width: 767px) {
+    .section-width__narrow{
+        max-width: 288px;
+    }
+}

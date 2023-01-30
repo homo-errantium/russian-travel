@@ -6,8 +6,14 @@
 
 @media screen and (max-width: 1279px) {
     .lead {
-        max-width:  768px;
         min-height: 480px;
-margin-bottom: 88px;
+        margin-bottom: 88px;
+    }   
+}
+
+@media screen and (max-width: 767px) {
+    .lead {
+        min-height: 406px;
+        margin-bottom: 64px;
     }   
 }
