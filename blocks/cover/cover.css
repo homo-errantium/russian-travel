@@ -7,6 +7,7 @@
     background-position: center;
     width: 100%;
     min-height: 740px;
+    max-width: 1184px;
     background-size: cover;
     margin-bottom: 92px;
     position: relative;
