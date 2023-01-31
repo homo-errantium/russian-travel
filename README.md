@@ -11,6 +11,8 @@ To view the site, you just need to download it in archived form or through the l
 
 * [link to viewe  on Github](https://github.com/homo-errantium/russian-travel)
 
+* [link to viewe  on Github Pages](https://homo-errantium.github.io/russian-travel/)
+
 
 
 **about technology**
