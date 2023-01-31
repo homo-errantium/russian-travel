@@ -10,9 +10,15 @@
 
 @media screen and (max-width: 767px) {
     .footer__link{
-        font-size: 24px;
-        font-weight: 400;
-        line-height: 24px;
+        font-size: 16px;
+        line-height: 18px;
     }
     
+}
+
+@media screen and (max-width: 449px) {
+    .footer{
+        line-height: 24px;
+        font-size: 24px;
+    }
 }
