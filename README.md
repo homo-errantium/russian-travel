@@ -1,23 +1,20 @@
-# Проект: Путешествие по России
+# Hi, my name is Aishat.
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## This project is a "Russian travel" website.
 
-**Интро**
+**Intro**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+This is a site about traveling in Russia.
+It is dedicated to an overview of interesting places where you can visit.
+On the site you can see photos of unique places of nature and choose the most attractive ones for yourself. In addition to an overview of the places, there is a description of how you can get to them.
+To view the site, you just need to download it in archived form or through the link.
 
-**Figma**
+* [link to viewe  on Github](https://github.com/homo-errantium/russian-travel)
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+**about technology**
 
-Удачи!
+This is a simple and informative site with the ability to follow links. It is fully responsive and responsive for most popular devices. It uses HTML and CSS. The arrangement of elements was implemented using Grid and Flex technology, so it will not be difficult to adapt to new devices. It uses only a few fonts and colors. However, the site is tasteful, organic and friendly looking.
+
+thank you for watching.
