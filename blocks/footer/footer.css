@@ -7,29 +7,23 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .footer{
+    .footer {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 1023px) {
-    .footer{
-        max-width: 720px;
-    }
-}
-
 @media screen and (max-width: 767px) {
-    .footer{
+    .footer {
         flex-direction: row;
         flex-wrap: wrap;
-        gap:26px;
+        gap: 26px;
         max-width: 720px;
         padding: 0 16px;
     }
 }
 
 @media screen and (max-width: 449px) {
-    .footer{
+    .footer {
         flex-direction: column;
         gap: 48px;
         max-width: 288px;

@@ -5,21 +5,20 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .intro{
-        margin-bottom: 88px;
+    .intro {
         max-width: 928px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .intro{
+    .intro {
         margin-bottom: 88px;
         max-width: 720px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .intro{
+    .intro {
         margin-bottom: 64px;
         max-width: 288px;
     }

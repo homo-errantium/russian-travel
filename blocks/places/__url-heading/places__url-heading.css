@@ -5,13 +5,13 @@
     letter-spacing: 2px;
     text-align: left;
     color: #aaaaaa;
-    fill: solid;
     margin: 0;
     margin-bottom: 12px;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 767px) {
-    .places__url-heading{
+    .places__url-heading {
         padding-left: 16px;
     }
 }
