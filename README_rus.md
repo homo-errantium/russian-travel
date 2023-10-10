@@ -12,12 +12,11 @@
 
 Для просмотра сайта вам достаточно скачать его в архивном виде или по ссылке с помощью команд GIT.
 
-
 -   [ссылка для просмотра на Github](https://github.com/homo-errantium/russian-travel)
 
 -   [ссылка для просмотра на страницах Github](https://homo-errantium.github.io/russian-travel/)
 
-###Технологии:
+### Технологии:
 
 <img src="./images/html5.png"
 alt="Значок HTML" width="40" height="40"/>
