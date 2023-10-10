@@ -11,7 +11,6 @@ On the site you can see photos of unique places of nature and choose the most at
 ##
 
 To view the site, you just need to download it in an archived form or through a link using GIT commands.
-Also, to view the site, you just need to download it in archived form or through the link.
 
 -   [link to viewe on Github](https://github.com/homo-errantium/russian-travel)
 
