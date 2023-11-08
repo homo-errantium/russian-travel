@@ -1,5 +1,3 @@
-# Hi, my name is Aishat.
-
 ## This project is a "Russian travel" website.
 
 <img src="./images/russian_travel_screen.png" alt="website screenshort"  width="600" height="300" />
